@@ -44,12 +44,8 @@ This project allows you to create secure passwords with a **custom word** includ
 
 ---
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 💡 *Feel free to fork, modify, and use this project for learning or personal use.*
+
 
 
 [def]: image-3.png
